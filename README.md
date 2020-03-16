@@ -1,6 +1,6 @@
 ## About Fyne
-The Fyne toolkit written in Go provides the easiest way to develop beautiful,
-lightweight and user friendly native applications for desktop, mobile and beyond.
+is an easy to use UI toolkit and app API written in Go. 
+It is designed to build applications that run on desktop and mobile devices with a single codebase.
 
 More at [fyne.io](https://fyne.io)
 
