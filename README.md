@@ -6,3 +6,11 @@ More at [fyne.io](https://fyne.io)
 
 ## Installing and configuring Fyne
 Find the instructions here: https://fyne.io/develop/index.html
+
+
+## Running any desktop app
+Make sure Go and Fyne are properly installed.
+
+```
+go run <filename>.go
+```
