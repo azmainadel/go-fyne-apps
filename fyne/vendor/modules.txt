@@ -34,7 +34,7 @@ github.com/srwiley/rasterx
 # github.com/stretchr/testify v1.3.1-0.20190311161405-34c6fa2dc709
 github.com/stretchr/testify/assert
 github.com/stretchr/testify/require
-# golang.org/x/image v0.10.0
+# golang.org/x/image v0.18.0
 golang.org/x/image/colornames
 golang.org/x/image/font
 golang.org/x/image/math/fixed
@@ -51,13 +51,13 @@ golang.org/x/mobile/exp/f32
 golang.org/x/mobile/geom
 golang.org/x/mobile/gl
 golang.org/x/mobile/internal/mobileinit
-# golang.org/x/net v0.6.0
+# golang.org/x/net v0.25.0
 golang.org/x/net/html
 golang.org/x/net/html/atom
 golang.org/x/net/html/charset
-# golang.org/x/sys v0.5.0
+# golang.org/x/sys v0.20.0
 golang.org/x/sys/unix
-# golang.org/x/text v0.11.0
+# golang.org/x/text v0.16.0
 golang.org/x/text/encoding
 golang.org/x/text/encoding/charmap
 golang.org/x/text/encoding/htmlindex
